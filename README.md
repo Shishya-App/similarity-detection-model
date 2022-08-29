@@ -13,6 +13,15 @@ Here we need to check the feature and the content of document to confirm if docu
 -  an attempt to solve above problem and save much of time .
 - after coustom document uploaded it will check similarity with existing same type of document and the content of document with existing one
 
+
+
+## Fundamental model 
+
+- <a href= 'https://tfhub.dev/google/tf2-preview/mobilenet_v2/feature_vector/4' >Tensorflow Mobile.net pre trained model<a>
+- <a href= 'https://pypi.org/project/easyocr/' >EasyOCR by python <a>
+
+
+
 <!---
 ## Table of Contents (Optional)
 
@@ -23,9 +32,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
